@@ -1,0 +1,15 @@
+﻿{
+    "name": "EditorTests",
+    "references": [
+        "GameScripts"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "Android"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

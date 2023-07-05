@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<versions>
+	<unity env="Pre" version="4.8.11" suffix="alpha.1" />
+	<android env="Pre" version="4.8.11" suffix="alpha.1" />
+	<ios env="Pre" version="4.8.11" suffix="alpha.1" />
+</versions>
